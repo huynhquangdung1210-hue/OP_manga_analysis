@@ -1,0 +1,9 @@
+# Ignore all JSON data files (episode JSONs, indices, caches)
+*.json
+
+# Typical notebook and Python ignores
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.env
+.venv/
